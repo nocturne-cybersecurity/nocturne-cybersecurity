@@ -1,4 +1,6 @@
-<h1 align="center">👋 Hi, I'm Rodrigo</h1>
+🌐 Network & Nmap Automation
+🧠 Custom Security Scripts in Python
+🗄️ Java + MySQL Backend Systems<h1 align="center">👋 Hi, I'm Rodrigo</h1>
 <h3 align="center">aka <strong>nocturne-cybersecurity</strong></h3>
 
 <p align="center">
@@ -43,16 +45,13 @@ I enjoy breaking things to understand how to protect them better.
 
 <h2>🧪 Featured Projects</h2>
 <ul>
-  <li>🔍 <strong><a href="https://github.com/nocturne-cybersecurity/OSINT-NG" target="_blank">OSINT-NG</a></strong> – Automated OSINT framework</li>
-  <li>🧑‍💻 <strong><a href="https://github.com/nocturne-cybersecurity/malware-analysis-toolkit" target="_blank">Malware Analysis Toolkit</a></strong> – Static & dynamic analysis utilities</li>
-  <li>🌐 <strong><a href="https://github.com/nocturne-cybersecurity/network-nmap-automation" target="_blank">Network & Nmap Automation</a></strong> – Automated scanning & reporting</li>
-  <li>🧠 <strong><a href="https://github.com/nocturne-cybersecurity/python-security-scripts" target="_blank">Custom Security Scripts in Python</a></strong> – Tailored tools for pentesting</li>
-  <li>🗄️ <strong><a href="https://github.com/nocturne-cybersecurity/java-mysql-backend" target="_blank">Java + MySQL Backend Systems</a></strong> – Secure database-driven apps</li>
-  <li>🔒 <strong><a href="https://github.com/nocturne-cybersecurity/encryption-playground" target="_blank">Encryption Playground</a></strong> – AES, RSA & hashing implementations</li>
-  <li>📊 <strong><a href="https://github.com/nocturne-cybersecurity/log-analyzer" target="_blank">Log Analyzer</a></strong> – Real-time log parsing & visualization</li>
-  <li>☁️ <strong><a href="https://github.com/nocturne-cybersecurity/cloud-security-checker" target="_blank">Cloud Security Checker</a></strong> – AWS & Azure misconfiguration scanner</li>
-  <li>🤖 <strong><a href="https://github.com/nocturne-cybersecurity/ai-threat-detection" target="_blank">AI Threat Detection</a></strong> – ML models for anomaly detection</li>
-  <li>🕵️ <strong><a href="https://github.com/nocturne-cybersecurity/phishing-simulation" target="_blank">Phishing Simulation Platform</a></strong> – Awareness training & reporting</li>
+  <li>📡 <strong><a href="https://github.com/nocturne-cybersecurity/Anomalisis" target="_blank">Anomalisis</a></strong></li>
+  <li>⚔️ <strong><a href="https://github.com/nocturne-cybersecurity/Nocturne-Attack" target="_blank">Nocturne-Attack</a></strong></li>
+  <li>🔑 <strong><a href="https://github.com/nocturne-cybersecurity/Passcor" target="_blank">Passcor</a></strong></li>
+  <li>🗂️ <strong><a href="https://github.com/nocturne-cybersecurity/metapython" target="_blank">Metapython</a></strong></li>
+  <li>🔍 <strong><a href="https://github.com/nocturne-cybersecurity/OSINT-NG" target="_blank">OSINT-NG</a></strong></li>
+  <li>🛡️ <strong><a href="https://github.com/nocturne-cybersecurity/SQLijection-Detector" target="_blank">SQLijection-Detector</a></strong></li>
+  <li>🗄️ <strong><a href="https://github.com/nocturne-cybersecurity/GestorDeTareasEscritorio" target="_blank">GestorDeTareasEscritorio</a></strong></li>
 </ul>
 
 ---
