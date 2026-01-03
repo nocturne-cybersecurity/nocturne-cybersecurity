@@ -10,9 +10,10 @@
 
 <h2>🧠 About Me</h2>
 <p>
-I'm a cybersecurity-focused developer with hands-on experience building tools for
+I'm a cybersecurity developer with hands-on experience building tools for
 <strong>automation, OSINT, network analysis and secure backend systems</strong>.
-I enjoy breaking things to understand how to protect them better.
+I enjoy deciphering things to understand how to better protect them.
+I'm 17 years old and I want to make this world safer.
 </p>
 
 <ul>
