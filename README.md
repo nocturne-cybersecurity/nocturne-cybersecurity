@@ -13,7 +13,7 @@
 I'm a cybersecurity developer with hands-on experience building tools for
 <strong>automation, OSINT, network analysis and secure backend systems</strong>.
 I enjoy deciphering things to understand how to better protect them.
-I'm 17 years old and I want to make this world safer.
+I'm Nocturne and I want to make this world safer.
 </p>
 
 <ul>
