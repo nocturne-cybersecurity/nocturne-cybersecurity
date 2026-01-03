@@ -1,6 +1,4 @@
-🌐 Network & Nmap Automation
-🧠 Custom Security Scripts in Python
-🗄️ Java + MySQL Backend Systems<h1 align="center">👋 Hi, I'm Rodrigo</h1>
+<h1 align="center">👋 Hi, I'm Rodrigo</h1>
 <h3 align="center">aka <strong>nocturne-cybersecurity</strong></h3>
 
 <p align="center">
@@ -45,13 +43,19 @@ I enjoy breaking things to understand how to protect them better.
 
 <h2>🧪 Featured Projects</h2>
 <ul>
-  <li>📡 <strong><a href="https://github.com/nocturne-cybersecurity/Anomalisis" target="_blank">Anomalisis</a></strong></li>
-  <li>⚔️ <strong><a href="https://github.com/nocturne-cybersecurity/Nocturne-Attack" target="_blank">Nocturne-Attack</a></strong></li>
-  <li>🔑 <strong><a href="https://github.com/nocturne-cybersecurity/Passcor" target="_blank">Passcor</a></strong></li>
-  <li>🗂️ <strong><a href="https://github.com/nocturne-cybersecurity/metapython" target="_blank">Metapython</a></strong></li>
-  <li>🔍 <strong><a href="https://github.com/nocturne-cybersecurity/OSINT-NG" target="_blank">OSINT-NG</a></strong></li>
-  <li>🛡️ <strong><a href="https://github.com/nocturne-cybersecurity/SQLijection-Detector" target="_blank">SQLijection-Detector</a></strong></li>
-  <li>🗄️ <strong><a href="https://github.com/nocturne-cybersecurity/GestorDeTareasEscritorio" target="_blank">GestorDeTareasEscritorio</a></strong></li>
+  <li>📡 <strong><a href="https://github.com/nocturne-cybersecurity/Anomalisis" target="_blank">Anomalisis</a></strong> – Advanced network and security analysis tool (port scanning, vulnerability detection, Nmap comparisons)</li>
+  
+  <li>⚔️ <strong><a href="https://github.com/nocturne-cybersecurity/Nocturne-Attack" target="_blank">Nocturne-Attack</a></strong> – Framework for testing web apps, servers, and databases (HTTP Flood, TCP Flood, DDoS)</li>
+  
+  <li>🔑 <strong><a href="https://github.com/nocturne-cybersecurity/Passcor" target="_blank">Passcor</a></strong> – Wordlist with over 10 million passwords + integration with John the Ripper</li>
+  
+  <li>🗂️ <strong><a href="https://github.com/nocturne-cybersecurity/metapython" target="_blank">Metapython</a></strong> – Script to extract metadata from any type of file (EXIF, metadata analysis)</li>
+  
+  <li>🔍 <strong><a href="https://github.com/nocturne-cybersecurity/OSINT-NG" target="_blank">OSINT-NG</a></strong> – Professional OSINT framework for cybersecurity and investigation (domains, social networks, emails)</li>
+  
+  <li>🛡️ <strong><a href="https://github.com/nocturne-cybersecurity/SQLijection-Detector" target="_blank">SQLijection-Detector</a></strong> – SQL injection vulnerability detector for applications</li>
+  
+  <li>🗄️ <strong><a href="https://github.com/nocturne-cybersecurity/GestorDeTareasEscritorio" target="_blank">GestorDeTareasEscritorio</a></strong> – Task manager in Java with a graphical interface using JFrame</li>
 </ul>
 
 ---
