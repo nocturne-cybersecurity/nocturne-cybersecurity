@@ -47,9 +47,6 @@ mision: "Hacer de este mundo un lugar más seguro, un byte a la vez."
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=nocturne-cybersecurity&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nocturne-cybersecurity&layout=compact&theme=tokyonight&hide_border=true"/>
-
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nocturne-cybersecurity&theme=tokyonight&hide_border=true" alt="streak stats"/>
@@ -67,8 +64,6 @@ mision: "Hacer de este mundo un lugar más seguro, un byte a la vez."
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/nocturne-cybersecurity/nocturne-cybersecurity/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-
-<sub>💡 Para activar esta animación, agrega el workshop de <a href="https://github.com/Platane/snk">Platane/snk</a> como GitHub Action en un repo llamado igual que tu usuario (ver instrucciones al final).</sub>
 
 </div>
 
