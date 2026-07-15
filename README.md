@@ -71,40 +71,16 @@ mision: "Hacer de este mundo un lugar más seguro, un byte a la vez."
 
 ## 🧪 Proyectos Destacados
 
-<div align="center">
-
-<a href="https://github.com/nocturne-cybersecurity/Anomalisis">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nocturne-cybersecurity&repo=Anomalisis&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/nocturne-cybersecurity/Nocturne-Attack">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nocturne-cybersecurity&repo=Nocturne-Attack&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/nocturne-cybersecurity/OSINT-NG">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nocturne-cybersecurity&repo=OSINT-NG&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/nocturne-cybersecurity/SQLijection-Detector">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nocturne-cybersecurity&repo=SQLijection-Detector&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/nocturne-cybersecurity/Passcor">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nocturne-cybersecurity&repo=Passcor&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/nocturne-cybersecurity/metapython">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=nocturne-cybersecurity&repo=metapython&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
 
 | Proyecto | Descripción |
 |---|---|
 | 📡 [**Anomalisis**](https://github.com/nocturne-cybersecurity/Anomalisis) | Herramienta avanzada de análisis de redes y seguridad (escaneo de puertos, detección de vulnerabilidades, comparación con Nmap) |
 | ⚔️ [**Nocturne-Attack**](https://github.com/nocturne-cybersecurity/Nocturne-Attack) | Framework para testeo de apps web, servidores y bases de datos (HTTP Flood, TCP Flood, DDoS) |
 | 🔍 [**OSINT-NG**](https://github.com/nocturne-cybersecurity/OSINT-NG) | Framework profesional de OSINT para ciberseguridad e investigación (dominios, redes sociales, correos) |
-| 🛡️ [**SQLijection-Detector**](https://github.com/nocturne-cybersecurity/SQLijection-Detector) | Detector de vulnerabilidades de inyección SQL en aplicaciones |
+| 🛡️ [**WDB**](https://github.com/nocturne-cybersecurity/SQLijection-Detector) | Creador de bases de datos en terminal para crear bases de datos rapido y facil en servidores |
 | 🔑 [**Passcor**](https://github.com/nocturne-cybersecurity/Passcor) | Wordlist con más de 10 millones de contraseñas + integración con John the Ripper |
 | 🗂️ [**Metapython**](https://github.com/nocturne-cybersecurity/metapython) | Script de extracción de metadatos de cualquier tipo de archivo (EXIF, análisis de metadatos) |
-| 🗄️ [**GestorDeTareasEscritorio**](https://github.com/nocturne-cybersecurity/GestorDeTareasEscritorio) | Gestor de tareas en Java con interfaz gráfica usando JFrame |
+| 🗄️ [**Learn full django**](https://github.com/nocturne-cybersecurity/LEARN-FULL-DJANGO) | Biblioteca de django para aprender a usarlo |
 
 <br/>
 
