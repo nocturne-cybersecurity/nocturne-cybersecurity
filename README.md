@@ -1,77 +1,136 @@
-<h1 align="center">👋 Hi, I'm Rodrigo</h1>
-<h3 align="center">aka <strong>nocturne-cybersecurity</strong></h3>
+<div align="center">
 
-<p align="center">
-🔐 Cybersecurity Enthusiast | Ethical Hacking | Secure Systems & Automation<br>
-💻 Java • Python • Linux • Offensive & Defensive Security
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Rodrigo%20López&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=aka%20nocturne-cybersecurity&descAlignY=55&descSize=20" width="100%"/>
 
----
-
-<h2>🧠 About Me</h2>
-<p>
-I'm a cybersecurity developer with hands-on experience building tools for
-<strong>automation, OSINT, network analysis and secure backend systems</strong>.
-I enjoy deciphering things to understand how to better protect them.
-I'm Nocturne and I want to make this world safer.
-</p>
-
-<ul>
-  <li>🛡️ Ethical Hacking & Secure Development</li>
-  <li>⚙️ Automation & Security Tooling</li>
-  <li>🌐 Backend Systems & Databases</li>
-  <li>🐧 Linux & Bash Power User</li>
-</ul>
-
----
-
-<h2>🚀 Languages & Tools</h2>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="42"/>
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="42"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="42"/>
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="42"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" width="42"/>
-</p>
-
----
-
-<h2>🧪 Featured Projects</h2>
-<ul>
-  <li>📡 <strong><a href="https://github.com/nocturne-cybersecurity/Anomalisis" target="_blank">Anomalisis</a></strong> – Advanced network and security analysis tool (port scanning, vulnerability detection, Nmap comparisons)</li>
-  
-  <li>⚔️ <strong><a href="https://github.com/nocturne-cybersecurity/Nocturne-Attack" target="_blank">Nocturne-Attack</a></strong> – Framework for testing web apps, servers, and databases (HTTP Flood, TCP Flood, DDoS)</li>
-  
-  <li>🔑 <strong><a href="https://github.com/nocturne-cybersecurity/Passcor" target="_blank">Passcor</a></strong> – Wordlist with over 10 million passwords + integration with John the Ripper</li>
-  
-  <li>🗂️ <strong><a href="https://github.com/nocturne-cybersecurity/metapython" target="_blank">Metapython</a></strong> – Script to extract metadata from any type of file (EXIF, metadata analysis)</li>
-  
-  <li>🔍 <strong><a href="https://github.com/nocturne-cybersecurity/OSINT-NG" target="_blank">OSINT-NG</a></strong> – Professional OSINT framework for cybersecurity and investigation (domains, social networks, emails)</li>
-  
-  <li>🛡️ <strong><a href="https://github.com/nocturne-cybersecurity/SQLijection-Detector" target="_blank">SQLijection-Detector</a></strong> – SQL injection vulnerability detector for applications</li>
-  
-  <li>🗄️ <strong><a href="https://github.com/nocturne-cybersecurity/GestorDeTareasEscritorio" target="_blank">GestorDeTareasEscritorio</a></strong> – Task manager in Java with a graphical interface using JFrame</li>
-</ul>
-
----
-
-<h2>📫 Where to Find Me</h2>
-<p align="center">
 <a href="https://github.com/nocturne-cybersecurity">
-  <img src="https://img.shields.io/badge/GitHub-nocturne--cybersecurity-black?style=for-the-badge&logo=github">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Cybersecurity+Enthusiast+%F0%9F%94%90;Ethical+Hacking+%26+Secure+Systems;Automation+%7C+OSINT+%7C+Network+Analysis;Java+%E2%80%A2+Python+%E2%80%A2+Linux+Power+User;%22I+decipher+things+to+protect+them%22" alt="Typing SVG" />
 </a>
-<a href="https://www.youtube.com/@NocturneSecurity">
-  <img src="https://img.shields.io/badge/YouTube-NocturneSecurity-red?style=for-the-badge&logo=youtube">
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=nocturne-cybersecurity&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+<img src="https://img.shields.io/github/followers/nocturne-cybersecurity?label=Followers&style=social" alt="followers"/>
+
+</div>
+
+<br/>
+
+## 🧠 Sobre mí
+
+```yaml
+nombre: Rodrigo López
+alias: Nocturne
+rol: Cybersecurity Developer
+enfoque: Automatización, OSINT, análisis de redes y sistemas backend seguros
+mision: "Hacer de este mundo un lugar más seguro, un byte a la vez."
+```
+
+- 🛡️ Ethical Hacking & Secure Development
+- ⚙️ Automatización y creación de herramientas de seguridad
+- 🌐 Sistemas backend y bases de datos
+- 🐧 Usuario avanzado de Linux & Bash
+- 🕵️ OSINT e investigación digital
+
+<br/>
+
+## 🚀 Stack Tecnológico
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,django,linux,bash,mysql,git,html,css,nginx,arduino,aws,apache&theme=dark" />
+
+</div>
+
+<br/>
+
+## 📊 Estadísticas de GitHub
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=nocturne-cybersecurity&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nocturne-cybersecurity&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nocturne-cybersecurity&theme=tokyonight&hide_border=true" alt="streak stats"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nocturne-cybersecurity&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+
+</div>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/nocturne-cybersecurity/nocturne-cybersecurity/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+
+<sub>💡 Para activar esta animación, agrega el workshop de <a href="https://github.com/Platane/snk">Platane/snk</a> como GitHub Action en un repo llamado igual que tu usuario (ver instrucciones al final).</sub>
+
+</div>
+
+<br/>
+
+## 🧪 Proyectos Destacados
+
+<div align="center">
+
+<a href="https://github.com/nocturne-cybersecurity/Anomalisis">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nocturne-cybersecurity&repo=Anomalisis&theme=tokyonight&hide_border=true" />
 </a>
-<a href="https://www.facebook.com/rodrigo.lopez.20904">
-  <img src="https://img.shields.io/badge/Facebook-Rodrigo-blue?style=for-the-badge&logo=facebook">
+<a href="https://github.com/nocturne-cybersecurity/Nocturne-Attack">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nocturne-cybersecurity&repo=Nocturne-Attack&theme=tokyonight&hide_border=true" />
 </a>
-</p>
+
+<a href="https://github.com/nocturne-cybersecurity/OSINT-NG">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nocturne-cybersecurity&repo=OSINT-NG&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/nocturne-cybersecurity/SQLijection-Detector">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nocturne-cybersecurity&repo=SQLijection-Detector&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/nocturne-cybersecurity/Passcor">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nocturne-cybersecurity&repo=Passcor&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/nocturne-cybersecurity/metapython">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=nocturne-cybersecurity&repo=metapython&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+| Proyecto | Descripción |
+|---|---|
+| 📡 [**Anomalisis**](https://github.com/nocturne-cybersecurity/Anomalisis) | Herramienta avanzada de análisis de redes y seguridad (escaneo de puertos, detección de vulnerabilidades, comparación con Nmap) |
+| ⚔️ [**Nocturne-Attack**](https://github.com/nocturne-cybersecurity/Nocturne-Attack) | Framework para testeo de apps web, servidores y bases de datos (HTTP Flood, TCP Flood, DDoS) |
+| 🔍 [**OSINT-NG**](https://github.com/nocturne-cybersecurity/OSINT-NG) | Framework profesional de OSINT para ciberseguridad e investigación (dominios, redes sociales, correos) |
+| 🛡️ [**SQLijection-Detector**](https://github.com/nocturne-cybersecurity/SQLijection-Detector) | Detector de vulnerabilidades de inyección SQL en aplicaciones |
+| 🔑 [**Passcor**](https://github.com/nocturne-cybersecurity/Passcor) | Wordlist con más de 10 millones de contraseñas + integración con John the Ripper |
+| 🗂️ [**Metapython**](https://github.com/nocturne-cybersecurity/metapython) | Script de extracción de metadatos de cualquier tipo de archivo (EXIF, análisis de metadatos) |
+| 🗄️ [**GestorDeTareasEscritorio**](https://github.com/nocturne-cybersecurity/GestorDeTareasEscritorio) | Gestor de tareas en Java con interfaz gráfica usando JFrame |
+
+<br/>
+
+## 📫 Dónde encontrarme
+
+<div align="center">
+
+<a href="https://github.com/nocturne-cybersecurity" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-nocturne--cybersecurity-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://www.youtube.com/@NocturneSecurity" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-NocturneSecurity-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+<a href="https://www.facebook.com/rodrigo.lopez.20904" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-Rodrigo-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
+</div>
