@@ -18,7 +18,7 @@
 ## 🧠 Sobre mí
 
 ```yaml
-nombre: Rodrigo López
+nombre: Rodrigo López Pizarro
 alias: Nocturne
 rol: Cybersecurity Developer
 enfoque: Automatización, OSINT, análisis de redes y sistemas backend seguros
