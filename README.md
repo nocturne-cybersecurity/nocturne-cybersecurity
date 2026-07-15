@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Rodrigo%20López&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=aka%20nocturne-cybersecurity&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Rodrigo%20López%20Pizarro&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=aka%20nocturne-cybersecurity&descAlignY=55&descSize=20" width="100%"/>
 
 <a href="https://github.com/nocturne-cybersecurity">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Cybersecurity+Enthusiast+%F0%9F%94%90;Ethical+Hacking+%26+Secure+Systems;Automation+%7C+OSINT+%7C+Network+Analysis;Java+%E2%80%A2+Python+%E2%80%A2+Linux+Power+User;%22I+decipher+things+to+protect+them%22" alt="Typing SVG" />
