@@ -20,7 +20,7 @@
 ```yaml
 nombre: Rodrigo López Pizarro
 alias: Nocturne
-rol: Cybersecurity Developer (DevSecOps)
+rol: Cybersecurity Developer & SysAdmin
 enfoque: Automatización, OSINT, análisis de redes, sistemas backend seguros, soporte técnico en infraestructura TI
 mision: "Hacer de este mundo un lugar más seguro, un byte a la vez."
 ```
