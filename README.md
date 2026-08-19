@@ -20,8 +20,8 @@
 ```yaml
 nombre: Rodrigo López Pizarro
 alias: Nocturne
-rol: Cybersecurity Developer
-enfoque: Automatización, OSINT, análisis de redes y sistemas backend seguros
+rol: Cybersecurity Developer (DevSecOps)
+enfoque: Automatización, OSINT, análisis de redes, sistemas backend seguros, soporte técnico en infraestructura TI
 mision: "Hacer de este mundo un lugar más seguro, un byte a la vez."
 ```
 
@@ -78,7 +78,7 @@ mision: "Hacer de este mundo un lugar más seguro, un byte a la vez."
 | ⚔️ [**Nocturne-Attack**](https://github.com/nocturne-cybersecurity/Nocturne-Attack) | Framework para testeo de apps web, servidores y bases de datos (HTTP Flood, TCP Flood, DDoS) |
 | 🔍 [**OSINT-NG**](https://github.com/nocturne-cybersecurity/OSINT-NG) | Framework profesional de OSINT para ciberseguridad e investigación (dominios, redes sociales, correos) |
 | 🛡️ [**WDB**](https://github.com/nocturne-cybersecurity/SQLijection-Detector) | Creador de bases de datos en terminal para crear bases de datos rapido y facil en servidores |
-| 🔑 [**Passcor**](https://github.com/nocturne-cybersecurity/Passcor) | Wordlist con más de 10 millones de contraseñas + integración con John the Ripper |
+| 🔑 [**Passcor**](https://github.com/nocturne-cybersecurity/Passcor) | Generador de contraseñas seguras y sistema de encriptación con bcrypt |
 | 🗂️ [**Metapython**](https://github.com/nocturne-cybersecurity/metapython) | Script de extracción de metadatos de cualquier tipo de archivo (EXIF, análisis de metadatos) |
 | 🗄️ [**Learn full django**](https://github.com/nocturne-cybersecurity/LEARN-FULL-DJANGO) | Biblioteca de django para aprender a usarlo |
 
