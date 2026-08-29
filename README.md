@@ -81,7 +81,7 @@ mision: "Hacer de este mundo un lugar más seguro, un byte a la vez."
 | 🛡️ [**WDB**](https://github.com/nocturne-cybersecurity/SQLijection-Detector) | Creador de bases de datos en terminal para crear bases de datos rapido y facil en servidores |
 | 🔑 [**Passcor**](https://github.com/nocturne-cybersecurity/Passcor) | Generador de contraseñas seguras y sistema de encriptación con bcrypt |
 | 🗂️ [**Metapython**](https://github.com/nocturne-cybersecurity/metapython) | Script de extracción de metadatos de cualquier tipo de archivo (EXIF, análisis de metadatos) |
-| 🗄️ [**Learn full django**](https://github.com/nocturne-cybersecurity/LEARN-FULL-DJANGO) | Biblioteca de django para aprender a usarlo |
+| 🗄️ [**Learn full django**](https://github.com/nocturne-cybersecurity/LEARN-FULL-DJANGO) | Biblioteca de django para aprender a usarlo en proyectos reales desde 0 |
 
 <br/>
 
