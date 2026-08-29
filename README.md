@@ -30,6 +30,7 @@ mision: "Hacer de este mundo un lugar más seguro, un byte a la vez."
 - 🌐 Sistemas backend y bases de datos
 - 🐧 Usuario avanzado de Linux & Bash
 - 🕵️ OSINT e investigación digital
+- 💾 Redes e Infraestructura TI
 
 <br/>
 
