@@ -47,18 +47,14 @@ mision: "Hacer de este mundo un lugar más seguro, un byte a la vez."
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nocturne-cybersecurity&theme=tokyonight&hide_border=true" alt="streak stats"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nocturne-cybersecurity&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-
+  <br/>
+  
+  <img src="https://vercel.app" alt="GitHub Stats" />
+  <br/>
+  
+  <img src="https://vercel.app" alt="Top Langs" />
 </div>
 
-<br/>
 
 ## 🐍 Contribution Snake
 
