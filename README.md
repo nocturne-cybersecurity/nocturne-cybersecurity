@@ -54,8 +54,6 @@ mision: "Hacer de este mundo un lugar más seguro, un byte a la vez."
   
   <br/>
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nocturne-cybersecurity&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-  
 </div>
 
 <br/>
