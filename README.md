@@ -27,10 +27,10 @@ mision: "Hacer de este mundo un lugar más seguro, un byte a la vez."
 
 - 🛡️ Ethical Hacking & Secure Development
 - ⚙️ Automatización y creación de herramientas de seguridad
-- 🌐 Sistemas backend y bases de datos
+- 💾 Sistemas backend y bases de datos
 - 🐧 Usuario avanzado de Linux & Bash
 - 🕵️ OSINT e investigación digital
-- 💾 Redes e Infraestructura TI
+- 🌐 Redes e Infraestructura TI
 
 <br/>
 
