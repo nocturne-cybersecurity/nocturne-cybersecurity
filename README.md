@@ -106,7 +106,6 @@ My interests live at the intersection of:
 <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,mongodb&theme=dark"/>
 
 
-
 ## ☁️ CLOUD / DEVOPS / INFRASTRUCTURE
 
 <img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,docker,kubernetes,aws,cloudflare,vercel&theme=dark"/>
@@ -122,7 +121,6 @@ My interests live at the intersection of:
 ## 🖥️ OPERATING SYSTEMS
 
 <img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,windows,kali,arch&theme=dark"/>
-
 
 
 ## 🎮 GAME DEVELOPMENT
