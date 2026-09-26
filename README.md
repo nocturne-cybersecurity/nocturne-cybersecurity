@@ -73,7 +73,6 @@ My interests live at the intersection of:
 <img src="https://img.shields.io/badge/HTB-020617?style=for-the-badge&logo=hackthebox&logoColor=00d9ff"/>
 <img src="https://img.shields.io/badge/OWASP-020617?style=for-the-badge&logo=owasp&logoColor=00d9ff"/>
 
-<br/>
 
 ## 🌐 NETWORKING
 
@@ -90,50 +89,47 @@ My interests live at the intersection of:
 <img src="https://img.shields.io/badge/ACL-020617?style=for-the-badge&logoColor=00d9ff"/>
 <img src="https://img.shields.io/badge/NAT%20%7C%20PAT-020617?style=for-the-badge&logoColor=00d9ff"/>
 
-<br/>
+
 
 ## 💻 PROGRAMMING LANGUAGES
 
 <img src="https://skillicons.dev/icons?i=python,go,java,cs,cpp,js,ts,bash,html,css&theme=dark"/>
 
-<br/>
 
 ## 🌍 WEB DEVELOPMENT
 
 <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,angular,django,spring,nginx,maven,workers,cloudflare,nodejs,npm&theme=dark"/>
 
-<br/>
 
 ## 🗄️ DATABASES
 
 <img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,mongodb&theme=dark"/>
 
-<br/>
+
 
 ## ☁️ CLOUD / DEVOPS / INFRASTRUCTURE
 
 <img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,docker,kubernetes,aws,cloudflare,vercel&theme=dark"/>
 
 
-<br/>
 
 ## 🔧 DEVELOPMENT TOOLS
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,matlab,eclipse,bots&theme=dark"/>
 
-<br/>
+
 
 ## 🖥️ OPERATING SYSTEMS
 
 <img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,windows,kali,arch&theme=dark"/>
 
-<br/>
+
 
 ## 🎮 GAME DEVELOPMENT
 
 <img src="https://skillicons.dev/icons?i=godot,blender&theme=dark"/>
 
-</div>
+
 
 ---
 
