@@ -78,7 +78,7 @@ My interests live at the intersection of:
 
 ### 💻 DEVELOPMENT
 
-<img src="https://skillicons.dev/icons?i=python,java,django,bash,html,css,mysql,git&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,java,django,typescript,javascript,bash,html,css,mysql,git&theme=dark"/>
 
 ### 🖥️ SYSTEMS & INFRASTRUCTURE
 
