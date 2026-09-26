@@ -62,27 +62,104 @@ My interests live at the intersection of:
 
 <div align="center">
 
-### 🔐 SECURITY
+## 🔐 CYBERSECURITY
 
 <img src="https://img.shields.io/badge/Ethical%20Hacking-020617?style=for-the-badge&logo=hackthebox&logoColor=00d9ff"/>
 <img src="https://img.shields.io/badge/OSINT-020617?style=for-the-badge&logo=protonmail&logoColor=00d9ff"/>
 <img src="https://img.shields.io/badge/Network%20Analysis-020617?style=for-the-badge&logo=cisco&logoColor=00d9ff"/>
 <img src="https://img.shields.io/badge/Web%20Security-020617?style=for-the-badge&logo=owasp&logoColor=00d9ff"/>
+<img src="https://img.shields.io/badge/Nmap-020617?style=for-the-badge&logo=nmap&logoColor=00d9ff"/>
+<img src="https://img.shields.io/badge/Metasploit-020617?style=for-the-badge&logo=metasploit&logoColor=00d9ff"/>
+<img src="https://img.shields.io/badge/HTB-020617?style=for-the-badge&logo=hackthebox&logoColor=00d9ff"/>
+<img src="https://img.shields.io/badge/OWASP-020617?style=for-the-badge&logo=owasp&logoColor=00d9ff"/>
 
-### 🌐 NETWORKING
+<br/>
+
+## 🌐 NETWORKING
 
 <img src="https://img.shields.io/badge/Cisco-020617?style=for-the-badge&logo=cisco&logoColor=00d9ff"/>
 <img src="https://img.shields.io/badge/CCNA-020617?style=for-the-badge&logo=cisco&logoColor=00d9ff"/>
+<img src="https://img.shields.io/badge/Packet%20Tracer-020617?style=for-the-badge&logo=cisco&logoColor=00d9ff"/>
+<img src="https://img.shields.io/badge/GNS3-020617?style=for-the-badge&logoColor=00d9ff"/>
 <img src="https://img.shields.io/badge/OSPF-020617?style=for-the-badge&logoColor=00d9ff"/>
-<img src="https://img.shields.io/badge/VLAN%20%7C%20STP%20%7C%20HSRP-020617?style=for-the-badge&logoColor=00d9ff"/>
+<img src="https://img.shields.io/badge/EIGRP-020617?style=for-the-badge&logoColor=00d9ff"/>
+<img src="https://img.shields.io/badge/VLAN-020617?style=for-the-badge&logoColor=00d9ff"/>
+<img src="https://img.shields.io/badge/STP-020617?style=for-the-badge&logoColor=00d9ff"/>
+<img src="https://img.shields.io/badge/HSRP%20%7C%20GLBP-020617?style=for-the-badge&logoColor=00d9ff"/>
+<img src="https://img.shields.io/badge/LACP%20%7C%20PAgP-020617?style=for-the-badge&logoColor=00d9ff"/>
+<img src="https://img.shields.io/badge/ACL-020617?style=for-the-badge&logoColor=00d9ff"/>
+<img src="https://img.shields.io/badge/NAT%20%7C%20PAT-020617?style=for-the-badge&logoColor=00d9ff"/>
 
-### 💻 DEVELOPMENT
+<br/>
 
-<img src="https://skillicons.dev/icons?i=python,java,django,bash,html,css,typescript,javascript,mysql,git&theme=dark"/>
+## 💻 PROGRAMMING LANGUAGES
 
-### 🖥️ SYSTEMS & INFRASTRUCTURE
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,bash,html,css&theme=dark"/>
 
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,nginx,aws,arduino&theme=dark"/>
+<br/>
+
+## 🌍 WEB DEVELOPMENT
+
+<img src="https://skillicons.dev/icons?i=react,tailwind,django&theme=dark"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Apache-020617?style=for-the-badge&logo=apache&logoColor=00d9ff"/>
+<img src="https://skillicons.dev/icons?i=nginx&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=cloudflare,workers&theme=dark"/>
+
+<br/>
+
+## 🗄️ DATABASES
+
+<img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark"/>
+
+<br/>
+
+## ☁️ CLOUD / DEVOPS / INFRASTRUCTURE
+
+<img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,docker,aws,cloudflare&theme=dark"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Proxmox-020617?style=for-the-badge&logo=proxmox&logoColor=00d9ff"/>
+<img src="https://img.shields.io/badge/Servers-020617?style=for-the-badge&logo=dell&logoColor=00d9ff"/>
+<img src="https://img.shields.io/badge/Virtualization-020617?style=for-the-badge&logo=vmware&logoColor=00d9ff"/>
+
+<br/>
+
+## 🔧 DEVELOPMENT TOOLS
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm&theme=dark"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/GitHub%20CLI-020617?style=for-the-badge&logo=github&logoColor=00d9ff"/>
+<img src="https://img.shields.io/badge/Terminal%20%7C%20CLI-020617?style=for-the-badge&logo=gnubash&logoColor=00d9ff"/>
+
+<br/>
+
+## 🖥️ OPERATING SYSTEMS
+
+<img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,windows,kali&theme=dark"/>
+
+<br/>
+
+## 🤖 AUTOMATION / HARDWARE
+
+<img src="https://skillicons.dev/icons?i=arduino&theme=dark"/>
+
+<br/>
+
+## 🎮 GAME DEVELOPMENT
+
+<img src="https://skillicons.dev/icons?i=godot,blender&theme=dark"/>
+
+<br/>
+
+## 🎨 CREATIVE / DESIGN
+
+<img src="https://skillicons.dev/icons?i=blender&theme=dark"/>
 
 </div>
 
