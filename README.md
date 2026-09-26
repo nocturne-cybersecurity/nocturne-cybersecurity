@@ -145,21 +145,9 @@ My interests live at the intersection of:
 
 <br/>
 
-## 🤖 AUTOMATION / HARDWARE
-
-<img src="https://skillicons.dev/icons?i=arduino&theme=dark"/>
-
-<br/>
-
 ## 🎮 GAME DEVELOPMENT
 
 <img src="https://skillicons.dev/icons?i=godot,blender&theme=dark"/>
-
-<br/>
-
-## 🎨 CREATIVE / DESIGN
-
-<img src="https://skillicons.dev/icons?i=blender&theme=dark"/>
 
 </div>
 
