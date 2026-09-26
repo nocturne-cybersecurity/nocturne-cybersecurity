@@ -82,13 +82,7 @@ My interests live at the intersection of:
 
 ### 🖥️ SYSTEMS & INFRASTRUCTURE
 
-<div align="center">
-
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,nginx,aws,arduino&theme=dark"/>
-
-  <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache"/>
-
-</div>
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,nginx,aws,arduino&theme=dark"/>
 
 </div>
 
