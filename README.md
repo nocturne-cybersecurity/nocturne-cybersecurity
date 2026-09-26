@@ -94,54 +94,38 @@ My interests live at the intersection of:
 
 ## 💻 PROGRAMMING LANGUAGES
 
-<img src="https://skillicons.dev/icons?i=python,java,js,ts,bash,html,css&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,go,java,cs,cpp,js,ts,,bash,html,css&theme=dark"/>
 
 <br/>
 
 ## 🌍 WEB DEVELOPMENT
 
-<img src="https://skillicons.dev/icons?i=react,tailwind,django&theme=dark"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/Apache-020617?style=for-the-badge&logo=apache&logoColor=00d9ff"/>
-<img src="https://skillicons.dev/icons?i=nginx&theme=dark"/>
-<img src="https://skillicons.dev/icons?i=cloudflare,workers&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,angular,django,spring,nginx,maven,workers,cloudflare,nodejs,npm&theme=dark"/>
 
 <br/>
 
 ## 🗄️ DATABASES
 
-<img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,postgres,mongodb&theme=dark"/>
 
 <br/>
 
 ## ☁️ CLOUD / DEVOPS / INFRASTRUCTURE
 
-<img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,docker,aws,cloudflare&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,docker,kubernetes,aws,cloudflare,vercel&theme=dark"/>
 
-<br/>
-
-<img src="https://img.shields.io/badge/Proxmox-020617?style=for-the-badge&logo=proxmox&logoColor=00d9ff"/>
-<img src="https://img.shields.io/badge/Servers-020617?style=for-the-badge&logo=dell&logoColor=00d9ff"/>
-<img src="https://img.shields.io/badge/Virtualization-020617?style=for-the-badge&logo=vmware&logoColor=00d9ff"/>
 
 <br/>
 
 ## 🔧 DEVELOPMENT TOOLS
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm&theme=dark"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/GitHub%20CLI-020617?style=for-the-badge&logo=github&logoColor=00d9ff"/>
-<img src="https://img.shields.io/badge/Terminal%20%7C%20CLI-020617?style=for-the-badge&logo=gnubash&logoColor=00d9ff"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,matlab,eclipse,bots&theme=dark"/>
 
 <br/>
 
 ## 🖥️ OPERATING SYSTEMS
 
-<img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,windows,kali&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,windows,kali,arch&theme=dark"/>
 
 <br/>
 
