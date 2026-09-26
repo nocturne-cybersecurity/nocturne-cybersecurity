@@ -94,7 +94,7 @@ My interests live at the intersection of:
 
 ## 💻 PROGRAMMING LANGUAGES
 
-<img src="https://skillicons.dev/icons?i=python,go,java,cs,cpp,js,ts,,bash,html,css&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,go,java,cs,cpp,js,ts,bash,html,css&theme=dark"/>
 
 <br/>
 
