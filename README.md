@@ -163,6 +163,7 @@ long_term:
 
 # `> featured_projects`
 
+
 ### 🔬 Security & Research
 
 | Project                                                                                        | Description                                                                                                                       | Stack    |
@@ -184,6 +185,7 @@ long_term:
 ---
 
 # `> infrastructure`
+
 
 One of the things I enjoy most is taking cybersecurity **outside the code** and into real infrastructure.
 
@@ -234,6 +236,7 @@ My lab environment is used to experiment with:
 
 # `> networking`
 
+
 I'm particularly interested in **enterprise networking and resilient infrastructure**.
 
 Some of the concepts I work with:
@@ -272,6 +275,7 @@ Services
 
 # `> security_mindset`
 
+
 ```text
                     ┌─────────────────┐
                     │   UNDERSTAND    │
@@ -305,6 +309,7 @@ It's about understanding **systems deeply enough to predict how they fail.**
 ---
 
 # `> learning_path`
+
 
 ```text
                     CYBERSECURITY
@@ -340,6 +345,7 @@ I'm continuously expanding my knowledge through:
 
 # `> github_stats`
 
+
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nocturne-cybersecurity&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
@@ -356,6 +362,7 @@ I'm continuously expanding my knowledge through:
 
 # `> contribution_activity`
 
+
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/nocturne-cybersecurity/nocturne-cybersecurity/output/github-contribution-grid-snake-dark.svg" width="100%"/>
@@ -365,6 +372,7 @@ I'm continuously expanding my knowledge through:
 ---
 
 # `> philosophy`
+
 
 <div align="center">
 
@@ -391,6 +399,7 @@ I'm continuously expanding my knowledge through:
 ---
 
 # `> connect`
+
 
 <div align="center">
 
