@@ -82,7 +82,7 @@ My interests live at the intersection of:
 
 ### 🖥️ SYSTEMS & INFRASTRUCTURE
 
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,apache-server,nginx,aws,arduino&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,debian,Apache,nginx,aws,arduino&theme=dark"/>
 
 </div>
 
